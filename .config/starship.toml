@@ -1,0 +1,60 @@
+[character]
+success_symbol = "🐰🐰🐰🐰🐰🐰"
+
+[directory]
+truncation_length = 100
+truncate_to_repo = true
+
+[package]
+disabled = true
+
+[time]
+disabled = false
+format = "🕐[ %T ]"
+utc_time_offset = "-5"
+time_range = "10:00:00-14:00:00"
+
+[NodeJS]
+symbol = "⬢"
+style = "bold green"
+disabled = false
+not_capable_style = "bold red"
+
+[docker_context]
+symbol = "🐳"
+
+[php]
+symbol = "🔹"
+
+[aws]
+style = "bold blue"
+symbol = "🅰"
+displayed_items = "region"
+[aws.region_aliases]
+ap-southeast-2 = "au"
+us-east-1 = "va"
+
+[git_branch]
+symbol = "🌱"
+truncation_length = 20
+truncation_symbol = ""
+
+[git_commit]
+symbol = "⏫"
+truncation_length = 30
+
+[git_state]
+progress_divider = " off "
+cherry_pick = "🍒 PICKING"
+
+[git_status]
+conflicted = "🏳️"
+ahead = "🚗💨"
+behind= "😰"
+diverged = "😵"
+untracked = "🤷🏼<200d>"
+stashed = "📦"
+modified = "📝"
+staged = "++"
+renamed = "🔥"
+delete = "🗑"

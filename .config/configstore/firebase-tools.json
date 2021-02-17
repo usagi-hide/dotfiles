@@ -1,0 +1,58 @@
+{
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1607612230481
+	},
+	"activeProjects": {
+		"/Users/hide/Desktop/chatbot": "chatbot-15f80",
+		"/Users/hide/react-todo-app": "todo-list-c8476",
+		"/Users/hide/Documents/work/insta-clone/insta-clone": "insta-clone-d0cb8",
+		"/Users/hide/Documents/work/BINGO": "test-75dd5"
+	},
+	"analytics-uuid": "5fc4ea12-019e-4e75-a096-196b985cb2cd",
+	"usage": true,
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "100882551572978296522",
+		"email": "usagi.e.chan@gmail.com",
+		"email_verified": true,
+		"at_hash": "syg42-tzwOLnC7mUWbdMLQ",
+		"iat": 1606362293,
+		"exp": 1606365893
+	},
+	"tokens": {
+		"expires_at": 1607622577803,
+		"refresh_token": "1//0eXCP_QLHyrWdCgYIARAAGA4SNwF-L9IrtZqMApRmygJVylYMyXY3o3l0j545u8OxuxII2oD91_khuddymWBtbj2R-cwpIBlt4a4",
+		"scopes": [
+			"email",
+			"https://www.googleapis.com/auth/cloud-platform",
+			"https://www.googleapis.com/auth/cloudplatformprojects.readonly",
+			"https://www.googleapis.com/auth/firebase",
+			"openid"
+		],
+		"access_token": "ya29.a0AfH6SMA3YCtoftsJ--uHsN7ALOVhqg9RvKoE71uQStdk03mx-prVHgK5nHbHs8Zl0Ksk0zUh_vFRdUGjvdJJhYB7Ahz9jgPYd0z0rjORTfz1wic-z7a6OwhK_zN5QseYYObjCSU5UbBXV3tmlQ8LuFrYnRzU_x49rzLB9AlQnhA4HAd89EJy",
+		"expires_in": 3599,
+		"scope": "openid https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase https://www.googleapis.com/auth/cloud-platform",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImQ0Y2JhMjVlNTYzNjYwYTkwMDlkODIwYTFjMDIwMjIwNzA1NzRlODIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTAwODgyNTUxNTcyOTc4Mjk2NTIyIiwiZW1haWwiOiJ1c2FnaS5lLmNoYW5AZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiJQUDFWOGRGNUVtSEF2ay1wM0pjc293IiwiaWF0IjoxNjA3NjE4OTc4LCJleHAiOjE2MDc2MjI1Nzh9.JT-YpTm4fH1On4Q3sWkKkKnonsE5iauegiRDfyLYfH8gBrxsD2cAhiA-NwRtcEQjRiSSWaGWsX_EMqSu6nPOfxBWZO3eX91lfmdECBPoUrPELf2RVE7dOL8gb0qlUw89i4tHTsHcly1dvNbKubp9NUTAoJpTddOHM3HZBtBW4OePhQJ4tERH51mmlPiuLpie4zkjRx6jPBPgnXIvJxx6kTKifNcoWo_vcOKEHQEzkGeIJZhQPohabiLQNmccxNv13lsBIr57KRo7fTCUSt15gqTZkRRws8J_82RJ-97KY6uxQWV5D-RG9WzZt5puxnrn5LhXzNZpMWV611bpTRobGA"
+	},
+	"webconfig": {
+		"test-75dd5": {
+			"projectId": "test-75dd5",
+			"appId": "1:635113786980:web:c860c22ace9f5758f7d971",
+			"storageBucket": "test-75dd5.appspot.com",
+			"locationId": "us-central",
+			"apiKey": "AIzaSyBLprUbTJjfRsARuinqv1fjuqHkXF6J6zE",
+			"authDomain": "test-75dd5.firebaseapp.com",
+			"messagingSenderId": "635113786980"
+		}
+	}
+}
